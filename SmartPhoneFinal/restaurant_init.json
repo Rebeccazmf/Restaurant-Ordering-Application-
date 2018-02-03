@@ -1,0 +1,16 @@
+{
+  “restaurant” : {
+    "-K2ib4H77rj0LYewF7dP" : {
+      "type" : "breakfast",
+      "name" : "omelet"
+    },
+    "-K2ib5JHRbbL0NrztUfO" : {
+      "type" : "breakfast",
+      "name" : "fruit"
+    },
+    "-K2ib62mjHh34CAUbide" : {
+      "type" : "breakfast",
+      "name" : "tea"
+    }
+  }
+}
